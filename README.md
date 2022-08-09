@@ -1,5 +1,6 @@
 # passwordGenerator
-Simple password generator application using Angular framework
+Simple password generator application using Angular framework. Application generates password by inputing length of the required password(restricted values 8-32)
+user will be have a provision to check if it must include alphabets/numbers/special characters 
 
 # prerequisite
 Angular CLI: 12.2.17
